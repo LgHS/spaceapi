@@ -78,7 +78,6 @@ async function handleRequest(request) {
       "https://wiki.liegehacker.space/",
       "https://github.com/LgHS",
     ],
-    success: true,
   }
   return new Response(JSON.stringify(response, null, 1), {
     status: 200,

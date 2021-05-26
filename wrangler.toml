@@ -1,0 +1,9 @@
+name = "lghs-spaceapi"
+type = "javascript"
+
+account_id = "54a10bf31c7e1b5fd1221c98977d3e17"
+workers_dev = true
+
+[env.production]
+zone_id = "43578810bd4989b9c1d36f720ed536dc"
+route = "lghs.be/spaceapi"
